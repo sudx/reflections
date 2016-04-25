@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+the .git folder gets created with repository based information. commits are not done yet.
+To setup all the required information before performing a commit.
+
+========
