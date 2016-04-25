@@ -4,3 +4,7 @@ the .git folder gets created with repository based information. commits are not 
 To setup all the required information before performing a commit.
 
 ========
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area gives us a temporary space to work with before finalizing changes. This gives us time to reflect on things we have done.
