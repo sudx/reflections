@@ -33,3 +33,9 @@ they make it more intuitive to understand and visualize the repository structure
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 two branches can be merged into one. All commits remain in the order of their time. because they merge.
+
+==========
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging can cause file conflicts when 2 or more people on different branches modified the same code.
+With manual merging you can ensure that you are saving to file exactly what you want.
