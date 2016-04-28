@@ -27,3 +27,9 @@ when we are not certain about the changes that we are making
 How do the diagrams help you visualize the branch structure?
 
 they make it more intuitive to understand and visualize the repository structure
+
+==========
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+two branches can be merged into one. All commits remain in the order of their time. because they merge.
