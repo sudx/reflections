@@ -16,3 +16,8 @@ forks - lets us copy the repository in github
 clone - lets us copy the repository from one place to another (particularly from github to local machine or from one directory to another)
 branches - lets us modify our project without modifying the main branch
 
+==========
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+this way 2 users making changes to the same place can be acknowledged.
